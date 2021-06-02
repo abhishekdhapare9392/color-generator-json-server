@@ -2,6 +2,11 @@
 
 A color generator using json server you need to install npm and run dev usin 'npm run dev'.
 
+Step 1: First install package of bible package of javascript.
+Step 2: Then install npm.
+Step 3: After that use documentaion of json server and follow steps for creating json db.
+
+
 ### Version
 1.0.0
 
